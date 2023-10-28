@@ -37,5 +37,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj3329&theme=buefy&layout=compact" />
 </a>
 <br/>
-
-⭐️ From [Yashraj.](https://github.com/Yashraj3329)
