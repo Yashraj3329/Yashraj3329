@@ -1,9 +1,9 @@
-# Hey there! I'm Yashraj
+# Hello there! I'm Yashraj
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; A sudent in DPS R.K.Puram.
-- 🌱 &nbsp; Learning more about Web Development.
+- 🌱 &nbsp; Learning more about Web Development. (on break rn lmao)
 - 🤔 &nbsp; Exploring new technologies and learning new things everyday.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
